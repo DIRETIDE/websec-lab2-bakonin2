@@ -4,8 +4,10 @@ _Пример оформления работы_
 
 ## Payload 1
 
-При переходе по ссылке `https://example.com/example`. Параметр `example` можно заменить на пейлоад `<script>alert(document.cookies)</script>` для выполнения Reflected XSS инъекции в элементе `<div id="search-query-param">...</div>`, который покажет куки файлы пользователя
+https://google-gruyere.appspot.com/509870841862400053734264954502968465848/deletesnippet?index=0 - можно ввести во время редактирования профиля и удалить сниппеты.
 
-## Payload n
+## Payload 2
+
+https://google-gruyere.appspot.com/436802689550121465959218544117568210677/upload.gtl - можно выполнить иньекцию любого кода.
 
 ...
